@@ -1,0 +1,3 @@
+﻿  XML_Parse.cpp
+C:\Users\User\Desktop\Internet_shop_test_XML\Internet_shop_test_XML\XML_Parse.cpp(4,1): error C2011: 'XML_Parse': 'class' type redefinition
+C:\Users\User\Desktop\Internet_shop_test_XML\Internet_shop_test_XML\XML_Parse.h(7): message : see declaration of 'XML_Parse'

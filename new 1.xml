@@ -1,0 +1,23 @@
+
+<shop id="1">
+  <name>Мой магазин</name>
+  <url>ololo.shop.by</url>
+  <working_time>
+    <open>10:00</open>
+    <close>23:00</close>
+  </working_time>
+  <offers>
+    <item id="111">
+      <name>имя товара</name>
+      <description>описание без html тегов</description>
+      <price>5.80</price>
+    </item>
+    <item id="222">
+    ...
+    </item>
+    ...
+  </offers>
+</shop>
+<shop id="2">
+
+</shop>

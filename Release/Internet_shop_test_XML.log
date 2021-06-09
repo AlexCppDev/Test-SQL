@@ -1,0 +1,12 @@
+﻿  Scanning sources for module dependencies...
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_store_result@4
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_real_connect@32
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_set_character_set@8
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_close@4
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_server_end@0
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_query@8
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_fetch_row@4
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_character_set_name@4
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_init@4
+SQL_controller.obj : error LNK2001: unresolved external symbol _mysql_error@4
+C:\Users\User\Desktop\Internet_shop_test_XML\Internet_shop_test_XML\Release\Internet_shop_test_XML.exe : fatal error LNK1120: 10 unresolved externals

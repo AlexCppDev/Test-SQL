@@ -1,0 +1,41 @@
+<? xml version = "1.0" encoding = "UTF-8" ?>
+<shop id="2">
+ 	<name> Аматиста </name>
+ 	<url> amatista.by </url>
+ 	<working_time>
+ 		<open>09:00:00</open>
+ 		<close>09:00:00</close>
+ 	</working_time>
+ 	<offers>
+		<item id = "2"> 
+ 			<name>Табак</name>
+ 			<description>Вкусный табак</description>
+ 			<price>14.00</price>
+ 		</item>
+		<item id = "3"> 
+ 			<name>Коньяк</name>
+ 			<description>Хороший коньяк</description>
+ 			<price>70.00</price>
+ 		</item>
+	</offers>
+</shop>
+<shop id="3">
+ 	<name> Eвроопт </name>
+ 	<url> evroopt.by </url>
+ 	<working_time>
+ 		<open>00:00:00</open>
+ 		<close>00:00:00</close>
+ 	</working_time>
+ 	<offers>
+		<item id = "4"> 
+ 			<name>Колбаса</name>
+ 			<description>Докторская</description>
+ 			<price>7.30</price>
+ 		</item>
+		<item id = "5"> 
+ 			<name>Колбаса</name>
+ 			<description>Сыровяленая</description>
+ 			<price>10.00</price>
+ 		</item>
+	</offers>
+</shop>

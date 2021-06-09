@@ -1,0 +1,23 @@
+﻿  Scanning sources for module dependencies...
+  Constant_tags.h
+  Compiling...
+  Constant_tags.h
+  Item.cpp
+  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Shops_service.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Shop.cpp
+  Constant_tags.cpp
+  SQL_controller.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Tags_deleting.cpp
+  XML_Exporter.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\User\Desktop\Internet_shop_test_XML\Internet_shop_test_XML\x64\Release\Internet_shop_test_XML.lib and object C:\Users\User\Desktop\Internet_shop_test_XML\Internet_shop_test_XML\x64\Release\Internet_shop_test_XML.exp
+  Generating code
+  0 of 526 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Internet_shop_test_XML.vcxproj -> C:\Users\User\Desktop\Internet_shop_test_XML\Internet_shop_test_XML\x64\Release\Internet_shop_test_XML.exe
